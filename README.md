@@ -53,10 +53,9 @@
 
 ## 📞 Contact Me
 
-- 📧 Email: [nguyenphucthinhdh15dt@gmail.com](mailto:nguyenphucthinhdh15dt@gmail.com)
+- 📧 Email: [thinhnguyen.itengineer@gmail.com](mailto:thinhnguyen.itengineer@gmail.com)
 - 📱 Phone: 0377700492
-- 🔗 LinkedIn: [https://www.linkedin.com/in/thinh-nguyen-phuc-550481156](https://www.linkedin.com/in/thinh-nguyen-phuc-550481156)
-- 🌐 Portfolio: [https://phucthinhdh15dt.github.io/phucthinhdh15dt](https://phucthinhdh15dt.github.io/phucthinhdh15dt)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/thinh-nguyen-phuc-550481156](https://www.linkedin.com/in/thinh-nguyen-it)
 
 ---
 
